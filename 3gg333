@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mensaje en el centro</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background-color: black;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .mensaje {
+      color: red;
+      font-size: 1em;
+      font-family: "Courier New", Consolas, monospace;
+      text-align: center
+    }
+  </style>
+</head>
+<body>
+  <div class="mensaje">¡No deberias estar aquí! <br><br> Aghhhhh, pero bueno... Ya que viniste voy a darte una pista: <br> 
+    El sonido de un martillo golpea en la mitad de la noche para hacer un gran escandalo,  
+    murcielagos salen volando y hacen una danza a la luz de la luna, queda poco tiempo pero quizás se arrepienta...
+  <br><br> 6.2660, -75.5924</div>
+</body>
+</html>
